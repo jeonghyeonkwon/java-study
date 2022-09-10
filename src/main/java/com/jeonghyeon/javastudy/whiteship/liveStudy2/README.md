@@ -1,4 +1,4 @@
-# 백기선님 자바 라이브 스터디 1일차
+# 백기선님 자바 라이브 스터디 2일차
 
 [백기선님 유튜브](https://www.youtube.com/watch?v=peEXNN-oob4&list=PLfI752FpVCS96fSsQe2E3HzYTgdmbz6LU)
 
@@ -103,9 +103,7 @@ class ScopeClass{
     // 클래스가 메모리에 올라갈 때
     // static 을 붙이면 됨
     
-    
-    
-    
+  
     // 인스턴스 변수
     int instanceVariable = 123;
     // 인스턴스가 생성 되었을 때
