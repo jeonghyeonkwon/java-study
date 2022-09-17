@@ -1,4 +1,4 @@
-# 백기선님 자바 라이브 스터디 5일차
+백기선님 자바 라이브 스터디 6일차
 
 [백기선님 유튜브](https://www.youtube.com/watch?v=peEXNN-oob4&list=PLfI752FpVCS96fSsQe2E3HzYTgdmbz6LU)
 
@@ -64,7 +64,7 @@ class Children extends Parent{
 ### 다이나믹 메소드 디스패치
 * 컴파일때는 어떤 메서드가 실행 될 지 모르고 런타임시 어떤 메서드가 실행되는지 결정되는 것
 * 관련 내용 
-  * https://www.youtube.com/watch?v=s-tXAHub6vg
+  * [https://www.youtube.com/watch?v=s-tXAHub6vg](https://www.youtube.com/watch?v=s-tXAHub6vg)
 ### 추상 클래스
 * 대상
   * 클래스
