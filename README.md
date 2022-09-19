@@ -6,5 +6,10 @@
 * [1일차](https://github.com/jeonghyeonkwon/java-study/blob/main/src/main/java/com/jeonghyeon/javastudy/whiteship/liveStudy1/README.md)
 * [2일차](https://github.com/jeonghyeonkwon/java-study/blob/main/src/main/java/com/jeonghyeon/javastudy/whiteship/liveStudy2/README.md)
 * [3일차](https://github.com/jeonghyeonkwon/java-study/blob/main/src/main/java/com/jeonghyeon/javastudy/whiteship/liveStudy3/README.md)
+* [4일차](https://github.com/jeonghyeonkwon/java-study/blob/main/src/main/java/com/jeonghyeon/javastudy/whiteship/liveStudy4/README.md)
+* [5일차](https://github.com/jeonghyeonkwon/java-study/blob/main/src/main/java/com/jeonghyeon/javastudy/whiteship/liveStudy5/README.md)
+* [6일차](https://github.com/jeonghyeonkwon/java-study/blob/main/src/main/java/com/jeonghyeon/javastudy/whiteship/liveStudy6/README.md)
+* [7일차](https://github.com/jeonghyeonkwon/java-study/blob/main/src/main/java/com/jeonghyeon/javastudy/whiteship/liveStudy7/README.md)
+* [8일차](https://github.com/jeonghyeonkwon/java-study/blob/main/src/main/java/com/jeonghyeon/javastudy/whiteship/liveStudy8/README.md)
 ## 출처
 * [백기선님 유튜브](https://www.youtube.com/watch?v=peEXNN-oob4&list=PLfI752FpVCS96fSsQe2E3HzYTgdmbz6LU)
