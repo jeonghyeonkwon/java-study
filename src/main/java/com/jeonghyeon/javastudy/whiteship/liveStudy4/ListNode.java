@@ -1,4 +1,5 @@
 package com.jeonghyeon.javastudy.whiteship.liveStudy4;
+
 /*
 TODO 1. LinkedList에 대해 공부하세요
    2. 정수를 저장하는 ListNode클래스를 구현하세요
@@ -6,6 +7,7 @@ TODO 1. LinkedList에 대해 공부하세요
    4. ListNode remove(ListNode head, int positionToRemove)를 구현하세요
    5. boolean contains(ListNode head, ListNode nodeToCheck)를 구현하세요
 * */
+
 public class ListNode {
 
     int data;

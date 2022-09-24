@@ -1,4 +1,4 @@
-# 백기선님 자바 라이브 스터디 10일차
+# 백기선님 자바 라이브 스터디 11일차
 
 [백기선님 유튜브](https://www.youtube.com/watch?v=peEXNN-oob4&list=PLfI752FpVCS96fSsQe2E3HzYTgdmbz6LU)
 

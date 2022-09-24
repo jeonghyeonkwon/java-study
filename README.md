@@ -86,5 +86,13 @@
   * enum이 제공하는 메소드 (values()와 valueOf())
   * java.lang.Enum
   * EnumSet
+
+* [12일차](https://github.com/jeonghyeonkwon/java-study/blob/main/src/main/java/com/jeonghyeon/javastudy/whiteship/liveStudy12/README.md)
+  * 애노테이션 정의하는 방법 
+  * @retention 
+  * @target 
+  * @documented 
+  * 애노테이션 프로세서
+
 ## 출처
 * [백기선님 유튜브](https://www.youtube.com/watch?v=peEXNN-oob4&list=PLfI752FpVCS96fSsQe2E3HzYTgdmbz6LU)
