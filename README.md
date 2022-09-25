@@ -94,5 +94,13 @@
   * @documented 
   * 애노테이션 프로세서
 
+* [13일차](https://github.com/jeonghyeonkwon/java-study/blob/main/src/main/java/com/jeonghyeon/javastudy/whiteship/liveStudy13/README.md)
+  * 스트림 (Stream) / 버퍼 (Buffer) / 채널 (Channel) 기반의 I/O
+  * InputStream과 OutputStream
+  * Byte와 Character 스트림
+  * 표준 스트림 (System.in, System.out, System.err)
+  * 파일 읽고 쓰기
+
+
 ## 출처
 * [백기선님 유튜브](https://www.youtube.com/watch?v=peEXNN-oob4&list=PLfI752FpVCS96fSsQe2E3HzYTgdmbz6LU)
