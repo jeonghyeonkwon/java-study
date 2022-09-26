@@ -101,6 +101,11 @@
   * 표준 스트림 (System.in, System.out, System.err)
   * 파일 읽고 쓰기
 
+* [14일차](https://github.com/jeonghyeonkwon/java-study/blob/main/src/main/java/com/jeonghyeon/javastudy/whiteship/liveStudy14/README.md)
+  * 제네릭 사용법 
+  * 제네릭 주요 개념 (바운디드 타입, 와일드 카드)
+  * 제네릭 메소드 만들기
+  * Erasure
 
 ## 출처
 * [백기선님 유튜브](https://www.youtube.com/watch?v=peEXNN-oob4&list=PLfI752FpVCS96fSsQe2E3HzYTgdmbz6LU)
