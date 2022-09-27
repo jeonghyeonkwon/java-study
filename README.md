@@ -107,5 +107,10 @@
   * 제네릭 메소드 만들기
   * Erasure
 
+* [15일차](https://github.com/jeonghyeonkwon/java-study/blob/main/src/main/java/com/jeonghyeon/javastudy/whiteship/liveStudy15/README.md)
+  * 람다식 사용법 
+  * 함수형 인터페이스 
+  * Variable Capture 
+  * 메소드, 생성자 레퍼런스
 ## 출처
 * [백기선님 유튜브](https://www.youtube.com/watch?v=peEXNN-oob4&list=PLfI752FpVCS96fSsQe2E3HzYTgdmbz6LU)
