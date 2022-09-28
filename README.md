@@ -114,3 +114,8 @@
   * 메소드, 생성자 레퍼런스
 ## 출처
 * [백기선님 유튜브](https://www.youtube.com/watch?v=peEXNN-oob4&list=PLfI752FpVCS96fSsQe2E3HzYTgdmbz6LU)
+
+
+## 이펙티브 자바 3판 스터디 
+[이펙티브 자바 공식 깃허브](https://github.com/WegraLee/effective-java-3e-source-code)
+* Item1 - 생성자 대신 정적 팩터리 메서드를 고려하라.
