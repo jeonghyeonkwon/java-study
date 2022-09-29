@@ -120,3 +120,4 @@
 [이펙티브 자바 공식 깃허브](https://github.com/WegraLee/effective-java-3e-source-code)
 * Item1 - 생성자 대신 정적 팩터리 메서드를 고려하라.
 * Item2 - 생성자에 매개변수가 많다면 빌더를 고려하라
+* Item3 - private 생성자나 열거 타입으로 싱글턴임을 보증하라.
