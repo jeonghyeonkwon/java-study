@@ -131,4 +131,4 @@
 * 3장 - 모든 객체의 공통 메서드
   * Item10 - equals는 일반 규약을 지켜 재정의하라
   * Item11 - equals를 재정의하려거든 hashCode도 재정의하라
-  
+  * Item12 - toString을 항상 재정의하라
