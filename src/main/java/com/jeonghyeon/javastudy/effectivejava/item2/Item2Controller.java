@@ -10,7 +10,7 @@ import static com.jeonghyeon.javastudy.effectivejava.item2.Pizza.Topping.*;
 @RestController
 @RequestMapping("/effective/item2")
 public class Item2Controller {
-    @GetMapping("/test2")
+    @GetMapping("/test1")
     public String test1(){
         NutritionFactsConstructor cocaCola = new NutritionFactsConstructor(240,8,100,0,35,27);
         return "test1";

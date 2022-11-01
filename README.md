@@ -115,6 +115,12 @@
 ## 출처
 * [백기선님 유튜브](https://www.youtube.com/watch?v=peEXNN-oob4&list=PLfI752FpVCS96fSsQe2E3HzYTgdmbz6LU)
 
+## 자바 자료구조 정리
+* [List](https://github.com/jeonghyeonkwon/java-study/blob/main/src/main/java/com/jeonghyeon/javastudy/datastructure/liststudy/README.md)
+* [Map](https://github.com/jeonghyeonkwon/java-study/blob/main/src/main/java/com/jeonghyeon/javastudy/datastructure/mapstudy/README.md)
+* [Set](https://github.com/jeonghyeonkwon/java-study/blob/main/src/main/java/com/jeonghyeon/javastudy/datastructure/setstudy/README.md)
+* [Queue](https://github.com/jeonghyeonkwon/java-study/blob/main/src/main/java/com/jeonghyeon/javastudy/datastructure/queue/README.md)
+* [Stack](https://github.com/jeonghyeonkwon/java-study/blob/main/src/main/java/com/jeonghyeon/javastudy/datastructure/stackstudy/README.md)
 
 ## 이펙티브 자바 3판 스터디 
 [이펙티브 자바 공식 깃허브](https://github.com/WegraLee/effective-java-3e-source-code)
@@ -140,3 +146,4 @@
   * Item17 - 변경 가능성을 최소화하라
   * Item18 - 상속보다는 컴포지션을 사용해라
   * Item19 - 상속을 고려해 설계하고 문서화하라. 그러지 않았다면 상속을 금지하라
+  * Item20 - 추상 클래스보다는 인터베이스를 우선하라
